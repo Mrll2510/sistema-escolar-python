@@ -31,7 +31,7 @@ Projeto de estudos desenvolvido em Python para praticar lógica de programação
 5. Habilite o acesso ao segredo no notebook.
 6. Execute as células do projeto.
 
-O código busca a chave com `userdata.get("GROQ_API_KEY")`. **Não coloque sua chave diretamente no código nem publique esse segredo no GitHub.**
+O código busca a chave com `userdata.get("GROQ_API_KEY")`.
 
 ## Observações
 
